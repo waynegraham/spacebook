@@ -19,7 +19,7 @@ This document is intended to support people in GLAM institutions directly, or ta
 
 ### Digital Library definition
 
-> Digital Libraries consist of the digital materials, both born-digital and digitized, that areowned by GLAM (galleries, libraries, archives, and museums) institutions, as well as the tools and platforms used to produce, take in ingest, aggregate, create, and display them. 
+> Digital Libraries consist of the digital materials, both born-digital and digitized, that are owned by GLAM (galleries, libraries, archives, and museums) institutions, as well as the tools and platforms used to produce, take in ingest, aggregate, create, and display them. 
 
 ## Getting Started (How to use this Document)
 
