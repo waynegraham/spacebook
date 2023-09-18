@@ -1,0 +1,21 @@
+{
+  "name": "Digital Library Accessibility Policy and Practice Guidelines",
+  "subtitle": "",
+  "description": "This document was written and maintained by the Digital Library Federation Accessibility Policy and Workflows group.",
+  "footer": "Made with ❤ by CLIR",
+  "url": "https://spacebook.app",
+  "githubUrl": "https://github.com/clirdlf/dlappg",
+  "githubBranch": "main",
+  "navigationStyle": "vertical",
+  "emoji": "💥",
+  "enableSearch": true,
+  "enableDarkMode": true,
+  "enableEditButton": true,
+  "enableDatestamp": true,
+  "enableGithubLink": false,
+  "enableContact": false,
+  "enableNetlifyCMS": false,
+  "enableComments": false,
+  "enableEncryption": false,
+  "enablePageNavigation": true
+}
