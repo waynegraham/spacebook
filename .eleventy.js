@@ -27,7 +27,7 @@ module.exports = function(eleventyConfig) {
       widths: [400, 600, 800, 1000, 1200, 1400, 1600, 1900],
       formats: ['webp', 'jpeg', 'png'],
       urlPath: "/content/images/",
-      outputDir: "./_site/content/images/"
+      outputDir: "./docs/content/images/"
     });
 
     let lowsrc = metadata.jpeg[0];
@@ -249,7 +249,7 @@ module.exports = function(eleventyConfig) {
       input: ".",
       includes: "_includes",
       data: "_data",
-      output: "_site"
+      output: "docs"
     }
   };
 };
